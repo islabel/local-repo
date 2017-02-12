@@ -6,3 +6,4 @@ masterで変更
 masterコミット取り入れ前にブランチで変更　=>　mergeします
 
 ブランチで変更
+master変更
