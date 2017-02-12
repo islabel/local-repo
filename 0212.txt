@@ -3,3 +3,4 @@ repo test
 その3
 masterで変更
 ブランチで変更
+masterコミット取り入れ前にブランチで変更　=>　mergeします
